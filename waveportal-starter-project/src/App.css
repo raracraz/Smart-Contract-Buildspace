@@ -1,3 +1,5 @@
+
+
 .mainContainer {
   display: flex;
   justify-content: center;
@@ -30,5 +32,6 @@
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+  background-color: wheat;
+  box-shadow: 5px 5px 0px 0px rgba(99, 99, 99, 0.75);
 }
